@@ -14,12 +14,10 @@ I work with doctors and clinics on website design, search visibility and digital
 
 ## Selected portfolio
 
-| Website | Field |
-| --- | --- |
-| [Dr. Saeed Shams Nosrati](https://drsaeedshams.com/) | Surgery |
-| [Dr. Mohammadreza Kazemi](https://drkazemipain.com/) | Pain medicine |
-| [Dr. Hossein Ettehad](https://drhosseinettehad.com/) | Orthopedics |
-| [Dr. Mehran Moradi](https://dr-moradi.com/) | Neurosurgery |
+- [Dr. Saeed Shams Nosrati](https://drsaeedshams.com/) — Surgery
+- [Dr. Mohammadreza Kazemi](https://drkazemipain.com/) — Pain medicine
+- [Dr. Hossein Ettehad](https://drhosseinettehad.com/) — Orthopedics
+- [Dr. Mehran Moradi](https://dr-moradi.com/) — Neurosurgery
 
 [Explore the full portfolio and website previews →](https://hesammoazzami.com/medical-website-portfolio/)
 
